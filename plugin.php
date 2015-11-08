@@ -1,6 +1,6 @@
 <?php 
 /**
- * Plugin Name: Ionicons (Official Icons)
+ * Plugin Name: Ionicons Official
  * Plugin URI: https://github.com/driftyco/ionicons-wp
  * Description: Official Ionicons plugin - Add over 900 open source icons to your wordpress site with a simple shortcode
  * Version: 1.0.0
