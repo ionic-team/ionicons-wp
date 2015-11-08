@@ -9,12 +9,14 @@
  * License: MIT
  */
 
+/*
 add_filter('plugin_action_links', 'wp_ionicons_cheatsheet_action_link', 10, 2);
 function wp_ionicons_cheatsheet_action_link($links, $file) {
   $settings_link = '<a href="http://ionicons.com/cheatsheet.html" target="_blank">Cheat Sheet</a>';
   array_unshift($links, $settings_link);
   return $links;
 }
+ */
 
 function wp_ionicons_css() {
   wp_register_style('ionicons_css', 'https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css', array(), '1.0');
